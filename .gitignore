@@ -1,0 +1,7 @@
+# ignore python cache
+__pycache__/ 
+flask-app/*.pyc
+
+# ignore virtual environment
+flask-app/venv/
+
