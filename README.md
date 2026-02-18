@@ -2,7 +2,9 @@
 
 Flask application that calculates race completion times based on running pace.
 
-Developed as part of university DevOps module.
+
+Developed as part of university DevOps coursework submission.
+
 
 
 
